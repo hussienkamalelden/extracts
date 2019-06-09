@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Subcontractor</string>
+    <string name="extracts"><![CDATA[مستخلص]]></string>
+    <string name="reports"><![CDATA[تقرير]]></string>
+    <string name="new_extract"><![CDATA[ مستخلص جديد]]></string>
+    <string name="exist_extracts"><![CDATA[مستخلصات سابقة]]></string>
+    <string name="new_report"><![CDATA[ تقرير جديد]]></string>
+    <string name="exist_reports"><![CDATA[تقارير سابقة]]></string>
+    <string name="error"><![CDATA[Error !]]></string>
+    <string name="no_files"><![CDATA[لا يوجد ملفات !]]></string>
+    <string name="username_title"><![CDATA[رجاء ادخل اسمك : ]]></string>
+    <string name="continues"><![CDATA[استمرار]]></string>
+    <string name="reset"><![CDATA[إعادة ضبط]]></string>
+    <!-- ____________________Reports________________________ -->
+    <string name="project_title"><![CDATA[المشروع /]]></string>
+    <string name="project_date_title"><![CDATA[تاريخ المشروع /]]></string>
+    <string name="content_title"><![CDATA[ادخل محتوى التقرير /]]></string>
+    <string name="images_title"><![CDATA[اختيار الصــور /]]></string>
+    <!-- ____________________Tab 1________________________ -->
+    <string name="logo_title"><![CDATA[ اختيار الشعار /]]></string>
+    <string name="logo_dimensions_tit"><![CDATA[اختيار أبعاد الشعار/]]></string>
+    <string name="extract_num_title"><![CDATA[مستخلص رقم /]]></string>
+    <string name="to_gentleman_title"><![CDATA[الى السيد /]]></string>
+    <string name="operation_title"><![CDATA[عملية /]]></string>
+    <string name="about_title"><![CDATA[عن /]]></string>
+    <string name="attachments_title"><![CDATA[المرفقات /]]></string>
+    <string name="from"><![CDATA[من ]]></string>
+    <string name="to"><![CDATA[الى]]></string>
+    <string name="choose_logo"><![CDATA[Logo]]></string>
+    <!-- ____________________Tab 2________________________ -->
+    <string name="inventory_e_tit"><![CDATA[مهندس الحصر /]]></string>
+    <string name="operation_eng_tit"><![CDATA[مهندس العملية /]]></string>
+    <string name="quality_eng_tit"><![CDATA[مهندس الجودة /]]></string>
+    <string name="technical_dir_tit"><![CDATA[المدير الفنى /]]></string>
+    <string name="accounts_tit"><![CDATA[الحسابات /]]></string>
+    <string name="project_man_tit"><![CDATA[مدير المشروع /]]></string>
+    <!-- ____________________Tab 3________________________ -->
+    <string name="add_item"><![CDATA[+ إضافة بند]]></string>
+    <string name="item_number_title"><![CDATA[رقم البند /]]></string>
+    <string name="box_title_1"><![CDATA[بيان العمل /]]></string>
+    <string name="box_title_2"><![CDATA[الوحدة /]]></string>
+    <string name="box_title_3"><![CDATA[الكميـــــة]]></string>
+    <string name="box_title_4"><![CDATA[الفئـــة /]]></string>
+    <string name="box_title_5"><![CDATA[نسبة صرف البند /]]></string>
+    <string name="item_title"><![CDATA[بند فارغ]]></string>
+    <string name="item_added"><![CDATA[Item added]]></string>
+    <string name="item_edited"><![CDATA[Item Edited]]></string>
+    <string name="item_deleted"><![CDATA[Item Deleted]]></string>
+    <string name="done"><![CDATA[Done]]></string>
+    <string name="counter"><![CDATA[0]]></string>
+    <string name="delete"><![CDATA[X]]></string>
+    <!-- ____________________Tab 4________________________ -->
+    <string name="add_discounts"><![CDATA[+ إضافة خصومات]]></string>
+    <string name="coast_type"><![CDATA[نوع الادخال /]]></string>
+    <string name="empty"><![CDATA[فارغ]]></string>
+    <string name="discount_type"><![CDATA[نوع الخصم /]]></string>
+    <string name="percentage"><![CDATA[نسبة مئوية]]></string>
+    <string name="percentage_note"><![CDATA[- سيتم ضرب النسبة المئوية فى الباقى من المجموع]]></string>
+    <string name="net_coast"><![CDATA[صافى مبلغ]]></string>
+    <string name="net_coast_note"><![CDATA[- سيتم طرح صافى المبلغ من الباقى من المجموع]]></string>
+    <string name="percentage_title"><![CDATA[النسبة المئوية /]]></string>
+    <string name="net_coast_title"><![CDATA[المبلغ /]]></string>
+    <string name="percentage_sign"><![CDATA[%]]></string>
+</resources>
